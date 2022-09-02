@@ -1,0 +1,4 @@
+com\start\YcConnectionAutoConfiguration.class
+com\start\dao\DBHelper.class
+com\start\dao\IDBHelper.class
+com\start\config\YcConnectionProperties.class
